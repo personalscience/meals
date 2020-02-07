@@ -1,0 +1,55 @@
+﻿mealID,meal_name,meal_type,kcal,carb,protein,fat,sat fat,fiber
+1,hard-boiled eggs  bacon,breakfast,100,10,10,10,10,10
+,ginger-carrot juice,any,94,21.92,2.24,0.35,0.064,1.9
+,Celery Juice,any,42,9.46,1.96,0.38,0.094,3.8
+,ACV & H2O,any,100,10,10,10,10,10
+,Protein Smoothie (Almond butter etc),any,280,32,7,16,2,5
+,Celery Juice,any,42,9,2,0,0,4
+,Blueberry Juice Protein,any,350,47,15,12,5,16
+,Orange Juice,any,110,26,2,0,0,2
+,Apple Juice,any,120,30,0,0,0,0
+,Waffles (GF) Maple Syrup Butter,breakfast,303,59,1,7.5,3,1
+,Hard boiled eggs and bacon,breakfast,226,1,16,16,5.5,0
+,Avocado with egg cooked,breakfast,384,13,15,34,0,9
+p4mi,Country potatoes scrambled eggs,breakfast,292,27,15,13,4,2
+p4mi,"vegetable hash (broccoli, cauliflower, asparagus) Orange (naval) ",breakfast,122,28.9,4.7,0.6,0.1,7.3
+p4mi,Overnight oats with blueberries,breakfast,377,49,8,3,0,8
+p4mi,Pancakes (Bisquick) Pork Sausage,breakfast,390,32,12,32.5,9,1
+,"Breakfast Burrito (flour tortilla, egg, potato, cheddar, salsa)",breakfast,100,10,10,10,10,10
+,Oatmeal (apples and cinnamon scratch),breakfast,100,10,10,10,10,10
+,"Corn flakes, whole milk, banana",breakfast,100,10,10,10,10,10
+p4mi,"Fish Crackers, Chocolate, Walnuts",snack,100,10,10,10,10,10
+p4mi,"Uncured Salami, Cheese, Olives",snack,280,5,14,20,,
+,"Hummus, Pita, Walnuts, Olive Oil, Olives",snack,100,10,10,10,10,10
+,"Almonds, Walnuts, Choco chips, Salami",snack,100,10,10,10,10,10
+,Fruit Smoothie,snack,100,10,10,10,10,10
+,Veggie Smoothie,snack,100,10,10,10,10,10
+,Egg Cups in Prociutto,snack,100,10,10,10,10,10
+,Ham slices with asparagus,snack,100,10,10,10,10,10
+,Turkey with microgreens,snack,100,10,10,10,10,10
+,"hummus, raw broccoli, celery, cucumber",snack,100,10,10,10,10,10
+p4mi,"Micro greens, hardboiled egg",snack,73,1,7,5,1.4,1
+,Protein Bar (tbd),snack,100,10,10,10,10,10
+,Candy bar (snickers?),snack,250,5,4,12,5,1
+,Guacamole & Chips,snack,730,85,9,40,7,13
+,Bagel with Cream Cheese,snack,420,46,10,22,10,2
+p4mi,"Micro green salad with tomato, cucumber, celery, carrot, mini peppers",snack,103,20.2,5.1,0.3,0,6
+p4mi,Ham Lunchable with Yogurt Craisins,snack,350,45,12,13,,
+p4mi,Turkey white rice broccoli,lunch,423,50,36,9,,2
+p4mi,Salmon instant rice zucchini,lunch,500,50,42,15,,1
+p4mi,Chicken wings celery carrots,lunch,300,11,22.7,18.2,5,3.6
+p4mi,Garden salad  feta dates,lunch,351,77,9,4,3,7.4
+,Chicken legs kale spinach salad,lunch,100,10,10,10,10,10
+,Beef flatiron potato MCT,lunch,100,10,10,10,10,10
+,Beef  ground bun lettuce tomato,lunch,100,10,10,10,10,10
+p4mi,chicken breast corn,lunch,247,21,35,2.3,0,0
+,Beef sirloin broccoli banana,lunch,100,10,10,10,10,10
+p4mi,Chicken brown rice brussel sprouts,dinner,390,46,30,12,,
+,beef sirloin quinoa green beans,dinner,100,10,10,10,10,10
+,Shrimp parsnips,dinner,100,10,10,10,10,10
+p4mi,Pork sweet potato mango,dinner,276,33.4,23.3,6.3,2.1,4.3
+,Yam spinach,dinner,100,10,10,10,10,10
+,Cod potato apple,dinner,100,10,10,10,10,10
+,Halibut asparagus,dinner,100,10,10,10,10,10
+,Chicken potato green beans,dinner,100,10,10,10,10,10
+,Pork beets cauliflower,dinner,100,10,10,10,10,10
