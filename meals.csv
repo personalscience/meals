@@ -1,55 +1,51 @@
 ﻿mealID,meal_name,meal_type,kcal,carb,protein,fat,sat fat,fiber
-1,hard-boiled eggs  bacon,breakfast,100,10,10,10,10,10
-,ginger-carrot juice,any,94,21.92,2.24,0.35,0.064,1.9
-,Celery Juice,any,42,9.46,1.96,0.38,0.094,3.8
-,ACV & H2O,any,100,10,10,10,10,10
-,Protein Smoothie (Almond butter etc),any,280,32,7,16,2,5
-,Celery Juice,any,42,9,2,0,0,4
-,Blueberry Juice Protein,any,350,47,15,12,5,16
-,Orange Juice,any,110,26,2,0,0,2
-,Apple Juice,any,120,30,0,0,0,0
-,Waffles (GF) Maple Syrup Butter,breakfast,303,59,1,7.5,3,1
-,Hard boiled eggs and bacon,breakfast,226,1,16,16,5.5,0
-,Avocado with egg cooked,breakfast,384,13,15,34,0,9
-p4mi,Country potatoes scrambled eggs,breakfast,292,27,15,13,4,2
-p4mi,"vegetable hash (broccoli, cauliflower, asparagus) Orange (naval) ",breakfast,122,28.9,4.7,0.6,0.1,7.3
-p4mi,Overnight oats with blueberries,breakfast,377,49,8,3,0,8
-p4mi,Pancakes (Bisquick) Pork Sausage,breakfast,390,32,12,32.5,9,1
-,"Breakfast Burrito (flour tortilla, egg, potato, cheddar, salsa)",breakfast,100,10,10,10,10,10
-,Oatmeal (apples and cinnamon scratch),breakfast,100,10,10,10,10,10
-,"Corn flakes, whole milk, banana",breakfast,100,10,10,10,10,10
-p4mi,"Fish Crackers, Chocolate, Walnuts",snack,100,10,10,10,10,10
-p4mi,"Uncured Salami, Cheese, Olives",snack,280,5,14,20,,
-,"Hummus, Pita, Walnuts, Olive Oil, Olives",snack,100,10,10,10,10,10
-,"Almonds, Walnuts, Choco chips, Salami",snack,100,10,10,10,10,10
-,Fruit Smoothie,snack,100,10,10,10,10,10
-,Veggie Smoothie,snack,100,10,10,10,10,10
-,Egg Cups in Prociutto,snack,100,10,10,10,10,10
-,Ham slices with asparagus,snack,100,10,10,10,10,10
-,Turkey with microgreens,snack,100,10,10,10,10,10
-,"hummus, raw broccoli, celery, cucumber",snack,100,10,10,10,10,10
-p4mi,"Micro greens, hardboiled egg",snack,73,1,7,5,1.4,1
-,Protein Bar (tbd),snack,100,10,10,10,10,10
-,Candy bar (snickers?),snack,250,5,4,12,5,1
-,Guacamole & Chips,snack,730,85,9,40,7,13
-,Bagel with Cream Cheese,snack,420,46,10,22,10,2
-p4mi,"Micro green salad with tomato, cucumber, celery, carrot, mini peppers",snack,103,20.2,5.1,0.3,0,6
-p4mi,Ham Lunchable with Yogurt Craisins,snack,350,45,12,13,,
-p4mi,Turkey white rice broccoli,lunch,423,50,36,9,,2
-p4mi,Salmon instant rice zucchini,lunch,500,50,42,15,,1
-p4mi,Chicken wings celery carrots,lunch,300,11,22.7,18.2,5,3.6
-p4mi,Garden salad  feta dates,lunch,351,77,9,4,3,7.4
-,Chicken legs kale spinach salad,lunch,100,10,10,10,10,10
-,Beef flatiron potato MCT,lunch,100,10,10,10,10,10
-,Beef  ground bun lettuce tomato,lunch,100,10,10,10,10,10
-p4mi,chicken breast corn,lunch,247,21,35,2.3,0,0
-,Beef sirloin broccoli banana,lunch,100,10,10,10,10,10
-p4mi,Chicken brown rice brussel sprouts,dinner,390,46,30,12,,
-,beef sirloin quinoa green beans,dinner,100,10,10,10,10,10
-,Shrimp parsnips,dinner,100,10,10,10,10,10
-p4mi,Pork sweet potato mango,dinner,276,33.4,23.3,6.3,2.1,4.3
-,Yam spinach,dinner,100,10,10,10,10,10
-,Cod potato apple,dinner,100,10,10,10,10,10
-,Halibut asparagus,dinner,100,10,10,10,10,10
-,Chicken potato green beans,dinner,100,10,10,10,10,10
-,Pork beets cauliflower,dinner,100,10,10,10,10,10
+, Green Avocado Smoothie,Breakfast,288,17.7,3.4,25.1,17.7,5.6
+, Roasted Rosemary Almonds,Snack,594,21.1,20.2,52.4,4.4,12.4
+, Emerald Kale Salad with Grilled Salmon,Lunch,579,35.4,44.9,28.1,5,5
+, Pepper Hummus w/ Carrots,Snack,241,34.8,10.3,7.8,1,9.5
+, Thai Chicken Meatballs with Roasted Broccoli and Quinoa,Dinner,511,29.7,55.2,17.9,3.6,3.8
+, Cashew Porridge,Breakfast,899,49,17.5,76.3,55,20.8
+, Cucumber w/ Avocado,Snack,387,52.7,9.8,21,4.6,12.8
+, Roasted Chicken with Green Beans and Quinoa,Lunch,365,14.8,49.7,12,5.9,6
+, Raspberry Bliss Protein Balls,Snack,276,33.9,5.3,15.5,7.7,13.1
+, Beef Meatballs with Broccoli and Sweet Potato Fries,Dinner,588,34.6,52.6,26.2,8.9,6.6
+, Roasted Asparagus with Poached Egg and Bacon,Breakfast,376,5.5,35.2,25.5,7.6,2.6
+, Spicy Roasted Cashews,Snack,396,23,10.5,31.8,6.3,2.1
+, Curry Turkey Meatballs with Baby Carrots and Quinoa,Lunch,611,32.6,52.3,32.9,3.6,4.6
+, Rice and Quinoa Crackers with Almond Butter,Snack,250,18,7.8,18,1.4,4.2
+, Italian Roasted Salmon and Broccoli with Yam,Dinner,445,34.4,37.1,19.1,2.7,6.4
+,Strawberry Chia,Breakfast,376,34,12.6,23.2,2.5,26.3
+, Apricot Lemon Energy Bar,Snack,140,14.8,4.7,8.2,2,6.4
+, Greek Meatballs with Cucumber Salad and Rice,Lunch,1581,111.2,133.7,65.2,25.9,5.2
+, Rosemary Roasted Almonds,Snack,279,11,10.1,23.9,1.9,6.5
+, Rosemary Roasted Pork Tenderloin with broccoli and yam mash,Dinner,874,33.5,137.2,18.4,6.1,6
+,Cinnamon Apple Pancakes,Breakfast,248,26.3,4.8,14.8,12.8,4.5
+, Sweet Potato Fries w/ Avocado Crema,Snack,392,50,3.8,21.5,4.1,11.2
+, Grilled Chicken with Asparagus and Baked Sweet Potatoes,Lunch,963,35.5,146.5,22,0.9,6.5
+,Mixed Nuts,Snack,80,3.5,2.5,7,1,1
+, Teriyaki Salmon with Broccoli and Brown Rice,Dinner,845,118.1,47.9,20.8,3.1,7.5
+,Green Avocado Smoothie,Breakfast,316,37.9,4.5,19.2,2.5,11.2
+, Avocado Strawberries,Snack,169,13.3,0.2,13.5,1.8,7.4
+, Roasted salmon with roasted brussels sprouts and quinoa,Lunch,421,30.8,40.6,16.2,0.1,5.6
+, Hummus Crudités,Snack,271,24,12.1,15.7,2.2,11.9
+, Casablanca Chicken with Asparagus and Roasted Yam,Dinner,595,34,57.2,25.5,11.8,6.9
+,Coconut Cream blood orange and berries parfait,Breakfast,376,76.1,3.6,9.5,7.6,11.1
+,Cucumber Hummus and Celery with chia,Snack,278,25.8,12.3,15.8,2.2,12.1
+, Mediterranean Chicken with Green Beans and Brown Rice,Lunch,1245,116.9,168.8,13.5,6.1,8.8
+,Roasted Chickpeas,Snack,110,18,5,4,0,6
+, Chicken and Ginger Mini Meatloaves with Broccoli and Baked Yam,Dinner,508,34.7,53.4,16.6,4,6.5
+,Vegan Breakfast Tacos,Breakfast,792,94.6,30.3,37.5,6,23.8
+,Date Balls,Snack,197,23.5,5.5,10.6,1.5,10
+,Pad Thai,Lunch,378,76.1,7.9,5.2,0.2,3.4
+,Kale Chips,Snack,168,11.7,2.4,14.1,2,1.3
+,Coconut Chickpea curry,Dinner,1436,212.6,51.2,46.8,27.3,42.4
+,Chickpeas and Brussel Sprouts Hash,Breakfast,943,139.4,42.9,26.9,3.4,39.8
+,Veggie Crudites,Snack,135,16.3,5.9,6.1,0.9,5.7
+,Meditteranean Baked Yams,Lunch,1123,151.6,38,46,7.2,34.7
+,Kale Chips,Snack,168,11.7,2.4,14.1,2,1.3
+,Tiki Masala,Dinner,1242,178.09,26,47.5,17.4,9.8
+,Lemon Poppyseed Pancakes,Breakfast,518,13.3,7.3,51.5,38.2,5.4
+,Veggie Crudites,Snack,135,16.3,5.9,6.1,0.9,5.7
+,Lentil Soup,Lunch,495,61.1,27.7,17.2,2.3,27.4
+,Carrot Cake Protein Balls,Snack,328,34.7,5,21,12.6,11.7
+,Portobello Pizzas,Dinner,117,15.1,11.9,1.1,0,2.8
